@@ -1,7 +1,7 @@
 # TIL: cert-manager Certificate Troubleshooting
 
 > Date: 2026-03-07
-> Tags: `kubernetes` `cert-manager` `traefik` `tls` `helm` `dns`
+> Tags: `kubernetes` `cert-manager` `traefik` `tls` `helm` `dns` `troubleshooting`
 
 ---
 
