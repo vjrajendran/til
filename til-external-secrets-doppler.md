@@ -15,7 +15,7 @@ ESO + Doppler solves this — secrets live outside the cluster permanently.
 ## How It Works (3-step chain)
 
 
-![ESO Flow](docs/images/es-flow.png)
+![ESO Flow](docs/images/es-flow.jpeg)
 
 ```
 1. doppler-token secret (manual, one time)
